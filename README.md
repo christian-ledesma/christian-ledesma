@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @christian-ledesma
 - 👀 I’m interested in Microsoft Technologies
-- 🌱 I’m currently learning .NET Core development
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently focusing on .NET Core development
 - 📫 How to reach me ...
 
 <!---
